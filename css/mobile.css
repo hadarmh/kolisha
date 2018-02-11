@@ -5,7 +5,7 @@ body {
 
 }
 body {
-  font-family: "aglet-slab",sans-serif;
+  font-family: "garamound",sans-serif;
   color: #1978d4;
   background-color: #ffdab9;
 }
@@ -68,29 +68,17 @@ header .header-content .header-content-inner hr {
   margin: 30px auto;
 }
 header .header-content .header-content-inner p {
-  font-size: 20px;
+  font-size: 14px;
   margin-bottom: 50px;
 }
 @media (min-width: 768px) {
   header {
     min-height: 100%;
   }
-  }
-
-
-@media (max-width: 767px) {
-p {
-  font-size: 16px;
-}
-
-}
-
 
 
 .section-heading {
-  color: #1978d4;
-  font-size: 100px;
-  font-family: "recherche",sans-serif;
+
   padding-top: 4%;
   margin-top: 0;
   text-align: center;
@@ -122,6 +110,11 @@ img::selection {
 
 body {
   webkit-tap-highlight-color: #222222;}
+
+.section-heading {
+  color: #1978d4;
+  font-size: 30px;
+}
 
 
 .description {
